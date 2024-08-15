@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+
 public class Parte1Ebac {
 
     public static void main(String[] args) {
@@ -27,6 +28,7 @@ public class Parte1Ebac {
         System.out.println("");
 
 
+
     }
     private static void nomesOrdenadosImprimir() {
 
@@ -42,4 +44,6 @@ public class Parte1Ebac {
         System.out.println(listaordenada);
 
     }
+
+
 }
